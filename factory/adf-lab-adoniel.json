@@ -1,0 +1,9 @@
+{
+	"name": "adf-lab-adoniel",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a498723d-f78b-4fec-b08c-eb6a9ec4b151",
+		"tenantId": "55a2bc67-aec1-4ad2-9a9c-5b2457b91dcd"
+	}
+}
